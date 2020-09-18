@@ -5,3 +5,8 @@
  * 
  * Dummy file created based on debug output
  ***/
+
+class StardustMenu {
+    public:
+        void DiMenuThreadInternalsplayMenu();
+};

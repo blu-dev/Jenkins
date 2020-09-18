@@ -15,3 +15,12 @@ namespace gekko {
 
     }
 }
+
+class Gekko {
+    public:
+        uint64_t Initialize(const char* arg);
+        uint64_t Boot();
+        uint64_t ApplyGecko(uint64_t arg);
+        uint64_t InvalidInstructionException();
+        uint64_t PsException(uint64_t arg);
+};

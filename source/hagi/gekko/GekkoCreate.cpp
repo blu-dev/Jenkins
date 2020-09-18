@@ -5,3 +5,10 @@
  * 
  * Dummy file created based on debug output
  ***/
+
+#include "common/common.h"
+
+class CreateGekko {
+    public:
+        CreateGekko();
+};

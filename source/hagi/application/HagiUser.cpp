@@ -5,3 +5,9 @@
  * 
  * Dummy file created based on debug output
  ***/
+
+class HagiUser {
+    public:
+        void Open();
+        void Close();
+};

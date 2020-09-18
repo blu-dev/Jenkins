@@ -5,3 +5,12 @@
  *  
  * Dummy file created based on debug output
  ***/
+
+#include "common/common.h"
+
+class Accelerator {
+    public:
+        uint64_t ReadDataLine();
+        uint64_t GetYn();
+
+};
